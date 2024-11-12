@@ -1,0 +1,26 @@
+/* Style for the title text */
+h1.title {
+/*    font-family: 'Arial', sans-serif; /* Set desired font */
+    font-size: 2em; /* Adjust font size */
+    text-transform: capitalize;
+    text-shadow: none;
+    color: #000000; /* Set text color */
+/*    text-align: center; /* Center align title */
+/*    margin-top: 20px; /* Adjust spacing */
+}
+
+/* Style for the author text */
+p.author {
+    color: #000000;
+}
+
+/* Style for the date text */
+p.date {
+    color: #000000;
+}
+
+/* Style for the subtitle text */
+p.subtitle {
+    color: #0F0ab9;
+    font-weight: bold;
+}
